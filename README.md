@@ -41,9 +41,3 @@ El libro de trabajo está diseñado para explorarse mediante clics, sin necesida
 5. Modifica los datos de entrada y pulsa `Recalcular equilibrios` para realizar el nuevo cálculo.
 
 Algunos módulos (como `Riesgo`) ejecutan miles de optimizaciones mediante Solver, por lo que el proceso puede tardar unos minutos.
-
-## Requisitos
-
-- Microsoft Excel para Windows, con macros habilitadas
-- Complemento Solver
-- La hoja oculta `Auxiliar` es utilizada por las macros; no la elimines
