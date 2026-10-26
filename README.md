@@ -34,7 +34,7 @@ El libro de trabajo está diseñado para explorarse mediante clics, sin necesida
 | **Derechos de propiedad** | `Límites` | Modelo de Grossman-Hart-Moore: integración frente a intercambio (transacción en el mercado), integración hacia atrás (aguas arriba) y hacia adelante (aguas abajo) |
 ## Como usarlo
 
-1. Descarga el archivo `industrial-organization-models.xlsm`.
+1. Descarga el archivo `IO models.xlsm`.
 2. Ábrelo en la versión de escritorio de **Microsoft Excel** y **habilita las macros**.
 3. Activa el complemento **Solver** (*Archivo > Opciones > Complementos > Administrar complementos de Excel > Complemento Solver*).
 4. En la hoja principal, haz clic en el módulo que desees utilizar.
